@@ -1,0 +1,13 @@
+.App {
+    height: 100%;
+}
+
+ul {
+    font-weight: 600;
+}
+
+.customCss {
+    width: 400px;
+    background: #d4f1d4b5;
+    height: 250px;
+}

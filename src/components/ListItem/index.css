@@ -1,0 +1,12 @@
+.listItem-caret {
+    cursor: pointer;
+    padding-right: 4px;
+}
+
+.listItem {
+    padding-left: 10px;
+}
+
+a {
+    color: black;
+}
